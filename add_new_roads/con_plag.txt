@@ -1,0 +1,4 @@
+panooperator
+postgres
+postgres
+postgresdb
